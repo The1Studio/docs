@@ -563,6 +563,10 @@ if(n<200&&document.readyState==="loading")requestAnimationFrame(function(){bar(n
         text: "Advanced management",
         items: [
           { text: "Estimates", link: "/core-concepts/issues/estimates" },
+          {
+            text: "Workload Estimates",
+            link: "/core-concepts/issues/workload-estimates",
+          },
           { text: "Bulk Operations", link: "/core-concepts/issues/bulk-ops" },
           {
             text: "Time Tracking",
