@@ -7,6 +7,8 @@ description: Set up and customize work item estimation using points, categories,
 
 Estimates in Plane help quantify the time and effort required for each work item in your project. Whether using a simple number scale or categories like T-shirt sizes, estimates provide a clearer idea of the work involved. They act as a proxy for complexity, helping teams gauge task scale quickly without detailed breakdowns. Estimates also aid in prioritizing, resource allocation, managing workload expectations, and identifying potential bottlenecks.
 
+For estimating in hours and tracking hours-based workload across your team, see [Workload Estimates](/core-concepts/issues/workload-estimates).
+
 ## Set up estimate system
 
 Getting started with estimates in your project is quick and easy. Here’s how you can set it up:
