@@ -567,6 +567,10 @@ if(n<200&&document.readyState==="loading")requestAnimationFrame(function(){bar(n
             text: "Workload Estimates",
             link: "/core-concepts/issues/workload-estimates",
           },
+          {
+            text: "Creation Defaults",
+            link: "/core-concepts/issues/creation-defaults",
+          },
           { text: "Bulk Operations", link: "/core-concepts/issues/bulk-ops" },
           {
             text: "Time Tracking",
