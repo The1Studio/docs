@@ -491,6 +491,10 @@ if(n<200&&document.readyState==="loading")requestAnimationFrame(function(){bar(n
         items: [
           { text: "Cycles", link: "/core-concepts/cycles" },
           { text: "Modules", link: "/core-concepts/modules" },
+          {
+            text: "Module status cascade",
+            link: "/core-concepts/module-status-cascade",
+          },
           { text: "Epics", link: "/core-concepts/issues/epics" },
           {
             text: "Dependencies in Timeline",
