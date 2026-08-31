@@ -55,6 +55,10 @@ Modules can be in one of the following states:
 
 These states provide a clear picture of where each Module stands in your project timeline. Users can plan their Modules with these statuses, offering clarity about the progress and current stage of each Module.
 
+::: tip
+Moving a Module to **Completed** or **Cancelled** can move its work items to the matching state, too. Learn more about the [Module status cascade](/core-concepts/module-status-cascade).
+:::
+
 ## Module progress
 
 Module progress is calculated based on the number of completed work items within the Module. This offers a quick overview of how much work remains before the Module can be closed. Each Module comes with analytics and metrics, empowering teams to assess performance and the success of their goals.
